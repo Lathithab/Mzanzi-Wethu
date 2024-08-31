@@ -223,18 +223,18 @@ if(isset($_SESSION['username'])) {
             <div class="img-box mb-3">
               <img src="images/location.png" alt="" class="img-fluid" style="max-width: 80px;">
             </div>
-            <h5>Real-Time Issue Reporting</h5>
-            <p>Easily report local issues, especially those related to infrastructure, directly from your phone. Use the app's intuitive interface to pinpoint problem locations and provide detailed descriptions, ensuring that your concerns are addressed promptly by local authorities.
-            </p>
-          </div>
+            </div>
+            <h5 style="text-align: left;">Real-Time Issue Reporting</h5>
+            <p style="text-align: left;">Easily report local issues, especially those related to infrastructure, directly from your phone. Use the app's intuitive interface to pinpoint problem locations and provide detailed descriptions, ensuring that your concerns are addressed promptly by local authorities.</p>
+            </div>
         </div>
         <div class="col-md-3">
           <div class="service-item text-center">
             <div class="img-box mb-3">
               <img src="images/report.png" alt="" class="img-fluid" style="max-width: 80px;">
             </div>
-            <h5>2. Accessible Government Information            </h5>
-            <p>Stay informed about your local government with clear and concise information on your representatives, their contact details, and the budgets allocated to your area. The app also provides easy-to-understand summaries of planned projects and their timelines, helping you stay updated on community developments.
+            <h5 style="text-align: left;">2. Accessible Government Information            </h5>
+            <p style="text-align: left;">Stay informed about your local government with clear and concise information on your representatives, their contact details, and the budgets allocated to your area. The app also provides easy-to-understand summaries of planned projects and their timelines, helping you stay updated on community developments.
             </p>
           </div>
         </div>
