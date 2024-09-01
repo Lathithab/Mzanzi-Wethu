@@ -233,7 +233,7 @@ if(isset($_SESSION['username'])) {
             <div class="img-box mb-3">
               <img src="images/report.png" alt="" class="img-fluid" style="max-width: 80px;">
             </div>
-            <h5 style="text-align: left;">2. Accessible Government Information            </h5>
+            <h5 style="text-align: left;">Accessible Government Information            </h5>
             <p style="text-align: left;">Stay informed about your local government with clear and concise information on your representatives, their contact details, and the budgets allocated to your area. The app also provides easy-to-understand summaries of planned projects and their timelines, helping you stay updated on community developments.
             </p>
           </div>

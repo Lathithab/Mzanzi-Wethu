@@ -111,8 +111,9 @@ if(isset($_SESSION['username'])) {
   <!-- service section -->
 
   <section id="services" class="service-section">
-  <h1>Welcome, <?php echo $username; ?></h1>
   
+     <div>
+      <h1> Welcome,</h1> <?php echo $username; ?> </h1> div\>;
     <div class="container">
         <h2 class="section-title">Our Services</h2>
         <div class="service-card">
@@ -132,16 +133,7 @@ if(isset($_SESSION['username'])) {
                 </div>
             </div>
 
-            <div class="container">
-        <h2 class="section-title"> </h2>
-        <div class="service-card">
-                    <form id="report-form">
-                    <h3>Who's my ward councillor?</h3>
-                    <a href="https://www.elections.org.za/pw/StatsData/List-Of-Current-Ward-Councillors#" target="_blank">Visit the IEC website</a>
-                    <div id="info-result" class="mt-3"></div>
-          </form>
-                </div>
-            </div>
+
       <div class="container">
         <div class="form-group">
                 <div class="service-card">
