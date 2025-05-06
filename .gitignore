@@ -1,0 +1,24 @@
+# Ignore XAMPP/Apache system files
+*.log
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore environment files (optional)
+.env
+
+# Ignore vendor folder (optional, if you later use Composer)
+vendor/
+
+# Ignore node_modules (optional, if you use npm later)
+node_modules/
+
+# Ignore VS Code settings (optional, only if you don’t want them in Git)
+.vscode/
+
+# Ignore uploads or cache folders (if your site creates them)
+uploads/
+cache/
