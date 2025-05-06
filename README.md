@@ -4,6 +4,17 @@
 
 The web app also allows citizens to report issues — with a focus on infrastructure problems occurring in their communities.
 
+## 🙌 Contributions
+This started as a team hackathon project.
+
+I developed the PHP backend and implemented the login and authentication system.
+
+Thank you to Keabetswe Ashleigh Meela for the frontend development
+
+Thank you to Sithokomele Nxumulo for the database set-up and development
+
+ The ongoing improvements are being developed independently by me.
+
 ## 🏆 About the Hackathon
 This project was created during the **GirlCode Hackathon 2024** (Cape Town) and won **3rd place**.
 
@@ -54,16 +65,7 @@ git clone [your-repo-link]
 2. Start Apache and MySQL via XAMPP.
 3. Access the project in your browser at: `http://localhost/[your-folder-name]`
 
-## 🙌 Contributions
-This started as a team hackathon project.
 
-I developed the PHP backend and implemented the login and authentication system.
-
-Thank you to Keabetswe Ashleigh Meela for the frontend development
-
-Thank you to Sithokomele Nxumulo for the database set-up and development
-
- The ongoing improvements are being developed independently by me.
 
 
  
